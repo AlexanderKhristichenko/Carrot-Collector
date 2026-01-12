@@ -820,6 +820,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Player
   joystick: {fileID: 1652999708}
   moveSpeed: 2
+  gameOverText: {fileID: 430899736}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
